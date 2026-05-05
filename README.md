@@ -72,6 +72,7 @@ LangBY/
 ├── setup_wizard.py      # First-run wizard + DropdownSelector widget
 ├── splash.py            # Startup notification
 ├── glass.py             # Glassmorphism utilities & color palette
+├── shared.py            # Shared state between components
 ├── assets/
 │   ├── icon.png         # App icon (PNG)
 │   └── icon.ico         # App icon (ICO)
