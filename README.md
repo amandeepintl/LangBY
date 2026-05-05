@@ -7,7 +7,9 @@
 </p>
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 ## ⚡ Features
 
 - 🌍 **35+ Languages** — Japanese, Korean, Spanish, Hindi, Arabic, and many more
