@@ -53,11 +53,30 @@ python langby.py
 ### Setup Wizard
 First-run guided configuration with searchable language dropdown.
 
+<p align="center">
+  <img src="Screenshots/setup-wizard.png" alt="Setup Wizard" width="400">
+</p>
+
+### Splash Notification
+Clean glassmorphic notification when LangBY starts.
+
+<p align="center">
+  <img src="Screenshots/splash.png" alt="Splash Notification" width="400">
+</p>
+
 ### System Tray
 Right-click for quick language switching, toggle, and settings.
 
+<p align="center">
+  <img src="Screenshots/tray-menu.png" alt="System Tray Menu" width="400">
+</p>
+
 ### Settings
 Full settings window with all options.
+
+<p align="center">
+  <img src="Screenshots/settings.png" alt="Settings Window" width="400">
+</p>
 
 ## 🏗️ Project Structure
 
